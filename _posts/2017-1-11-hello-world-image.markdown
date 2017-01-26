@@ -9,8 +9,6 @@ date:   2017-1-11 15:14:59 -0600
 Trying to figure out the different ways that are possible and the best way to set this up.
 Check out my lovely block prints :D
 
-![Rose block print pattern]({{ site.url }}/images/rose-pattern.jpg)
-
-<img src="{{ site.url }}/images/red-rose.jpg" alt="block print over red block">
+![Rose block print pattern](/images/rose-pattern.jpg)
 
 <img src="/images/red-rose.jpg" alt="just plain html">
