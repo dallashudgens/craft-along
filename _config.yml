@@ -11,7 +11,7 @@ email: hello@craftalong.me
 description: > # this means to ignore newlines until "baseurl:"
   Craft Along with Me - you don't have to do it alone.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "craftalong.me" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
